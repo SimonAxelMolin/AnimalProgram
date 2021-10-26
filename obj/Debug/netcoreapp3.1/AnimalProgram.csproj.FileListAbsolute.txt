@@ -1,0 +1,14 @@
+C:\Users\simon\source\repos\AnimalProgram\bin\Debug\netcoreapp3.1\AnimalProgram.exe
+C:\Users\simon\source\repos\AnimalProgram\bin\Debug\netcoreapp3.1\AnimalProgram.deps.json
+C:\Users\simon\source\repos\AnimalProgram\bin\Debug\netcoreapp3.1\AnimalProgram.runtimeconfig.json
+C:\Users\simon\source\repos\AnimalProgram\bin\Debug\netcoreapp3.1\AnimalProgram.runtimeconfig.dev.json
+C:\Users\simon\source\repos\AnimalProgram\bin\Debug\netcoreapp3.1\AnimalProgram.dll
+C:\Users\simon\source\repos\AnimalProgram\bin\Debug\netcoreapp3.1\AnimalProgram.pdb
+C:\Users\simon\source\repos\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.AssemblyInfo.cs
+C:\Users\simon\source\repos\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.dll
+C:\Users\simon\source\repos\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.pdb
+C:\Users\simon\source\repos\AnimalProgram\obj\Debug\netcoreapp3.1\AnimalProgram.genruntimeconfig.cache
